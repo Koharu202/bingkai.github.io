@@ -1,0 +1,35 @@
+.card{
+  width: 450px;
+  margin: auto;
+}
+
+.card h2{
+  margin: 0 0 6px 0;
+  text-align: center;
+}
+
+.card .twibbon{
+  width: 450px;
+  height: 450px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+}
+
+img#twibbon{
+  width: 100%;
+}
+
+img#photo{
+  z-index: -1;
+  position: absolute;
+}
+
+.card a{
+  display: block;
+  text-align: center;
+}
+.pilihan{
+  justify-content: center;
+  justify-items: ;
+}
